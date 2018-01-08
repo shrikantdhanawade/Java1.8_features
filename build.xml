@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <project name="Java1.8 Build" basedir=".">
-
 	<target name="build">
 		<echo message="Creating EAR file!"/>
 		<delete dir="./bin" />
