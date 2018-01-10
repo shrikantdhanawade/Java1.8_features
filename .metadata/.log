@@ -1,0 +1,17 @@
+!SESSION 2018-01-10 14:41:41.833 -----------------------------------------------
+eclipse.buildId=I20120531-1500
+java.version=1.8.0_151
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.osgi 2 1 2018-01-10 14:42:17.709
+!MESSAGE NLS missing message: JBossRuntimeStartup_JBoss_EAP_Server_6_1 in: org.jboss.ide.eclipse.as.core.Messages
+
+!ENTRY org.eclipse.egit.ui 2 0 2018-01-10 14:42:28.542
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\shrikant.dhanawade'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
